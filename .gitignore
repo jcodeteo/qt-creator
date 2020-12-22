@@ -283,3 +283,5 @@ tmp/
 # qbs builds
 /*-debug/
 /*-release/
+
+*.bak
